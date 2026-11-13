@@ -27,4 +27,14 @@ quotas that apply across all three channels.
 Source is private. [Read the case study](https://www.hammadahmad.me/projects/instantbot),
 or reach out and I'll walk you through the architecture.
 
-<img width="879" height="1009" alt="doc-scout-result" src="https://github.com/user-attachments/assets/4ed389e6-a4a7-4b3f-8b6b-b87b0d5d3fb5" />
+<img width="1426" height="1009" alt="live-grounded-chat" src="https://github.com/user-attachments/assets/49f5566f-da00-49f7-8a6f-c7b064a5e060" />
+<img width="879" height="1009" alt="doc-scout-result" src="https://github.com/user-attachments/assets/55c58023-f7dc-4d25-aa19-f68ef549dd32" />
+<img width="1825" height="1009" alt="Performance-monitoring" src="https://github.com/user-attachments/assets/8ba1b5b4-30d3-4aee-80ff-e40b07b78ed5" />
+<img width="1248" height="1009" alt="quick-web-widget-creation" src="https://github.com/user-attachments/assets/5bfdfcb6-6a62-45e2-b98a-f2139a4bc42e" />
+<img width="780" height="1009" alt="whatsapp-integration-screen" src="https://github.com/user-attachments/assets/53f7da98-3172-44d3-a45c-5b8b4d9767ae" />
+<img width="1060" height="1009" alt="RAG-Document-pipeline" src="https://github.com/user-attachments/assets/d04d1cb8-76e2-47f7-bf73-4985e79bf7d4" />
+
+
+
+
+
